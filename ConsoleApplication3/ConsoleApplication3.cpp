@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-
-		double a;
+		double abc=123.123;
+		double a=1.1;
 		char b;
 		int c;
 		char iden;
