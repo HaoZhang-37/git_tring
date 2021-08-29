@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-
+		double abc=123.123;
 		double a;
 		char b;
 		int c;
