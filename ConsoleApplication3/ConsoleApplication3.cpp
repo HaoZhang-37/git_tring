@@ -1,4 +1,12 @@
-﻿#include <iostream>
+﻿/*
+ * @Author: your name
+ * @Date: 2021-08-29 13:52:46
+ * @LastEditTime: 2021-08-29 13:55:08
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /haofeng.zhang/git_tring/ConsoleApplication3/ConsoleApplication3.cpp
+ */
+#include <iostream>
 #include <vector>
 #include <map>
 #include <iomanip>
@@ -7,7 +15,7 @@ using namespace std;
 
 int main()
 {
-
+		double abc=123.1;
 		double a;
 		char b;
 		int c;
