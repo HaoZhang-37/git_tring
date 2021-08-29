@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 		double abc=123.123;
-		double a;
+		double a=2;
 		char b;
 		int c;
 		char iden;
