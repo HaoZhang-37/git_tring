@@ -1,7 +1,11 @@
 ﻿/*
  * @Author: your name
  * @Date: 2021-08-29 13:52:46
+<<<<<<< HEAD
  * @LastEditTime: 2021-08-29 14:38:08
+=======
+ * @LastEditTime: 2021-08-29 14:29:41
+>>>>>>> 0067fa21542e7dba4038cf70e3fe0a13b0490401
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /haofeng.zhang/git_tring/ConsoleApplication3/ConsoleApplication3.cpp
